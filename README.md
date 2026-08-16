@@ -26,16 +26,6 @@ Développement d'applications web modernes, évolutives et pratiques.
 ### 🛠️ Tools & Productivity
 [![Tools](https://skillicons.dev/icons?i=vscode,figma,notion,webflow)](#)
 
----
-<p align="center">
-  <a align="center" href="https://youtube.com/@ibanalvas" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/811572620511150110?bg=0d1117&animated=true"/>
-  </a>
-</p>
----
-
-<samp>
-SOON • SOON • SOON
 </samp>
 
 ## ❤ Views and Followers
