@@ -1,13 +1,10 @@
-[youtube](https://youtube.com/@ibanalvas/)
-[Github](https://github.com/ibanalvas/)
-[Gmail](mailto:iban@alvas.fr)
-[Discord](https://discord.gg/uMtKJwPYfD)
+[Youtube]: https://www.youtube.com/@ibanalvas/
+[Discord]: https://discord.gg/uMtKJwPYfD
 
 <h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Iban</h1>
 <h3 align="center">Je suis un développeur Full Stack passionné, originaire de France.</h3>
 
-[![Website Badge](https://img.shields.io/badge/Website-1d2128?style=flat-square&logo=google-chrome&logoColor=white)][liams210]
-[![Youtube Badge](https://img.shields.io/badge/Youtube-1d2128?style=flat-square&logo=youtube&logoColor=white)][Discord]
+[![Youtube Badge](https://img.shields.io/badge/Youtube-1d2128?style=flat-square&logo=youtube&logoColor=white)][Youtube]
 [![Discord Badge](https://img.shields.io/badge/Discord-1d2128?style=flat-square&logo=discord&logoColor=white)][Discord]
 
 ---
