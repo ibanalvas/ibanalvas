@@ -1,7 +1,7 @@
 [youtube]: https://youtube.com/@ibanalvas/
 [Github]: https://github.com/ibanalvas/
 [Gmail]: mailto:iban@alvas.fr
-[Discord]: [https://discord.gg/gjJy34UzbC](https://discord.gg/uMtKJwPYfD)
+[Discord]: https://discord.gg/uMtKJwPYfD
 
 <h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Iban</h1>
 <h3 align="center">Je suis un développeur Full Stack passionné, originaire de France.</h3>
