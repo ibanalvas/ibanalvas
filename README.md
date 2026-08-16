@@ -1,16 +1,47 @@
-## Hi there 👋
+[youtube]: https://youtube.com/@ibanalvas/
+[Github]: https://github.com/ibanalvas/
+[Gmail]: mailto:iban@alvas.fr
+[Discord]: [https://discord.gg/gjJy34UzbC](https://discord.gg/uMtKJwPYfD)
 
-<!--
-**ibanalvas/ibanalvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Iban</h1>
+<h3 align="center">Je suis un développeur Full Stack passionné, originaire de France.</h3>
 
-Here are some ideas to get you started:
+[![Website Badge](https://img.shields.io/badge/Website-1d2128?style=flat-square&logo=google-chrome&logoColor=white)][liams210]
+[![Youtube Badge](https://img.shields.io/badge/Youtube-1d2128?style=flat-square&logo=youtube&logoColor=white)][Discord]
+[![Discord Badge](https://img.shields.io/badge/Discord-1d2128?style=flat-square&logo=discord&logoColor=white)][Discord]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Ravi de vous voir ici 👋
+
+Je suis le développeur à l'origine de **[AlvaBot] & [Projets Soon]**,  
+
+J'aime concevoir des produits qui allient **design épuré**, **excellente expérience utilisateur (UX)** et **utilisabilité concrète**.  
+
+---
+
+### 🧑‍💻 Full-Stack Developer
+Développement d'applications web modernes, évolutives et pratiques.
+[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,mongodb,)](#)
+
+---
+
+### 🛠️ Tools & Productivity
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,notion,webflow)](#)
+
+---
+<p align="center">
+  <a align="center" href="https://youtube.com/@ibanalvas" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/811572620511150110?bg=0d1117&animated=true"/>
+  </a>
+</p>
+---
+
+<samp>
+SOON • SOON • SOON
+</samp>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ibanalvas"></a>
+<a href="https://github.com/ibanalvas?tab=followers"><img src="https://img.shields.io/github/followers/ibanalvas?label=Followers&style=social" alt="GitHub Badge"></a>
